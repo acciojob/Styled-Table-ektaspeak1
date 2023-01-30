@@ -1,1 +1,36 @@
-/* your code */
+table,th,td{
+	border:2px solid black;
+	border-collapse:collapse;
+	
+	
+}
+
+table{
+	
+	height:40%;
+	width:100%;
+}
+
+thead{
+	background-color:blue;
+	color:white;
+}
+
+.main{
+	background-color:lightgrey;
+	
+}
+
+th{
+	font-size:15px;
+	background-color:darkblue;
+}
+
+.text{
+	background-color:lightgray;
+}
+
+td{
+	text-align:center;
+	
+}
